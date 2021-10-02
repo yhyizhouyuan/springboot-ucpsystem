@@ -1,0 +1,23 @@
+
+.body img{
+	margin:90px 0;
+}
+
+.form {
+	margin:50% 0;
+	padding:0 10px;
+}
+
+dd{
+	color:#000;
+}
+
+.layui-form-select dl dd.layui-this{
+	background-color:#1e9fff;
+}
+
+.footer{
+	height:80px;
+	font-size:26px;
+	line-height:80px;
+}

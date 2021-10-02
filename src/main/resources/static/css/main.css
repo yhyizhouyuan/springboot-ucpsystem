@@ -1,0 +1,22 @@
+.layui-layout-admin .layui-body {
+	bottom: 0px;
+}
+
+.layui-table, .layui-table-view {
+	margin: 0px;
+}
+
+.layui-logo-img {
+	height: 48px;
+	width: 150px;
+	margin-top: 6px;
+	vertical-align: baseline;
+}
+
+.layui-logo-name {
+	width: 200px;
+	height: 100%;
+	line-height: 60px;
+	color: #009688;
+	font-size: 16px;
+}

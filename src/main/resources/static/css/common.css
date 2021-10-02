@@ -1,0 +1,15 @@
+.head{
+	height:80px;
+}
+.head img {
+	height:60px;
+	margin:10px 30px 10px 120px;
+}
+.head span {
+	color:#0889d1;
+	font-size:30px;
+}
+.body{
+	height:600px;
+	text-align: center;
+}
